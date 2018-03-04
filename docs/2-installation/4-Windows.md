@@ -63,3 +63,5 @@ Follow these instructions in order to set up Thunderbird + the Enigmail plugin.
 ![](http://guld.email/pgp_installations/windows_gpg4win_7.png)
 
 4. This should automatically pull your key from Kleopatra, if it doesn't, then you must import your key backup from where you saved the export in Kleopatra. 
+
+![](
